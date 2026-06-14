@@ -7,7 +7,7 @@ Atualmente estou no início da minha jornada no mundo da tecnologia, mergulhando
   
 - 🌱 Estudos: **Acabei de concluir o primeiro módulo de Python do Curso em Vídeo** e estou explorando HTML, CSS, JavaScript, Inglês e Disciplinas da faculdade como: Hardware para Computação, Ética e Cidadania, Fundamentos de WEB, entre outras.
   
-- 😎 Objetivo: Construir uma báse sólida para começar a especificar meus estudos para apenas uma área no futuro. No momento penso em: FrontEnd, Ciência de Dados e Computação em Nuvem.
+- 😎 Objetivo: Construir uma báse sólida para começar a especializar meus estudos para apenas uma área no futuro. No momento penso em: Engenheiro de IA.
   
 - 🛠 Tecnologias que estou explorando:
       🐍Python
