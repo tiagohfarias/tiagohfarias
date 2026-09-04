@@ -10,9 +10,9 @@ Atualmente estou no início da minha jornada no mundo da tecnologia, mergulhando
 - 😎 Objetivo: Construir uma báse sólida para começar a especializar meus estudos para apenas uma área no futuro. No momento penso em: Engenheiro de IA.
   
 - 🛠 Tecnologias que estou explorando:
-      🐍Python
+      🔥Java
       🕸️Web - HTML, CSS e JavaScript
-      📚Certificações - Como curso da Cisco - English for IT
+      📚Certificações - Cursos Google Skills
   
 - 📫 Conecte-se comigo:
     [LinkedIn](https://www.linkedin.com/in/tiago-farias-38b574350/)
