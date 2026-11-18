@@ -21,6 +21,6 @@ Atualmente estou no início da minha jornada no mundo da tecnologia, mergulhando
 - ⚡ Curiosidades aleatórias:
   Em meu tempo livre gosto de jogar, assistir, filmes e animes,  e meu anime favorito é **One Piece!**
   Toco **bateria** em minha igreja, amo o instrumento desde os meus 14 anos!
-  Gosto de ler livros diversos, como 'A morte de Ivan Ilitch', 'O Ego é seu inimigo', 'O cristianismo puro e simples','O mal estar da civilização', entre outros.
+  Gosto de ler livros diversos, como 'A morte de Ivan Ilitch', 'O Peregrino', 'O cristianismo puro e simples','O mal estar da civilização', entre outros.
 
   Obrigado por ler até aqui! Deus abençoe!
